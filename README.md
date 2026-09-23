@@ -19,7 +19,7 @@
 
 ---
 
-## About
+## 🧠 About
 
 I'm an AI Engineer focused on **agentic LLM systems** — multi-agent architectures, tool-using agents, and RAG pipelines that run in production rather than staying notebooks. My background spans NLP, computer vision, audio, and security ML, with an MS in Computer Science built on a thesis in RAG pipeline optimization.
 
@@ -46,7 +46,7 @@ class JamshaidAli:
 
 ---
 
-## Agent Stack
+## 🛠️ Agent Stack
 
 <div align="center">
 
@@ -77,7 +77,7 @@ class JamshaidAli:
 
 ---
 
-## Experience
+## 💼 Experience
 
 ```
 2024 – Present   AI/ML Engineer, CYBLYTICS Lab @ FAST NUCES
@@ -103,7 +103,7 @@ class JamshaidAli:
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
 <table>
   <tr>
@@ -143,7 +143,7 @@ class JamshaidAli:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -157,19 +157,19 @@ class JamshaidAli:
 
 ---
 
-## Highlights
+## 🏆 Highlights
 
 <div align="center">
 
-| Multi-Agent Systems Shipped | Agent Capabilities | ML Domains | Repositories | Degree |
+| 🤖 Multi-Agent Systems | ⚙️ Agent Capabilities | 🔬 Agentic Domains | 📁 Repos | 🎓 Degree |
 |:---:|:---:|:---:|:---:|:---:|
-| 2+ (incl. Beeba) | Tool Use · RAG · Orchestration · Memory | NLP · CV · Audio · Security | 27 | MS CS @ FAST NUCES |
+| 2+ (incl. Beeba) | Tool Use · RAG · Orchestration · Memory | Conversational Agents · Content Automation · Security Agents | 27 | MS CS @ FAST NUCES |
 
 </div>
 
 ---
 
-## Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
