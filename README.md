@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A11CB&height=160&section=header&text=Jamshaid%20Ali&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%2C%20Agentic%20Systems%20%26%20LLM%20Infrastructure&descAlignY=51&descAlign=50" width="100%"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxNjAiIHZpZXdCb3g9IjAgMCAxMjAwIDE2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGYyMDI3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjMTIzOTVjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwZDlmZiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMTYwIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDx0ZXh0IHg9IjYwMCIgeT0iNzIiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SmFtc2hhaWQgQWxpPC90ZXh0PgogIDx0ZXh0IHg9IjYwMCIgeT0iMTA4IiBmb250LWZhbWlseT0iVmVyZGFuYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IiM5YmU3ZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkFJIEVuZ2luZWVyLCBBZ2VudGljIFN5c3RlbXMgJmFtcDsgTExNIEluZnJhc3RydWN0dXJlPC90ZXh0Pgo8L3N2Zz4K" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00D9FF&center=true&vCenter=true&width=780&lines=Designing+Multi-Agent+LLM+Systems+in+Production;RAG+Pipelines%2C+Tool-Using+Agents%2C+Orchestration;NLP%2C+Computer+Vision%2C+Security+ML;Shipping+Reliable+AI%2C+Not+Just+Demos" alt="Typing SVG" />
@@ -87,7 +87,7 @@ class JamshaidAli:
                    Boruta feature selection)
                  · Shipped production REST APIs for real-time ML inference
 
-2024 – Present   Lead Developer, Beeba (multi-agent social media automation)
+2024 – Present   Lead Developer, Beeba (multi-agent social media automation) at Cloud Rexpo
                  · Designed the multi-agent architecture end-to-end
                  · Owns orchestration, memory, and tool-integration layers
 
