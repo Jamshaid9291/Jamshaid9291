@@ -23,11 +23,12 @@
 
 I'm an AI Engineer focused on **agentic LLM systems**: multi-agent architectures, tool-using agents, and RAG pipelines that run in production rather than staying notebooks. My background spans NLP, computer vision, audio, and security ML, with an MS in Computer Science built on a thesis in RAG pipeline optimization.
 
-I currently work on multi-turn conversational agents and malware classification systems at CYBLYTICS Lab (FAST NUCES), and lead development of **Beeba**, a multi-agent social media automation platform.
+I'm currently an AI Engineer at **Cloud Rexpo**, leading development of **Beeba**, a multi-agent social media automation platform, and also work on multi-turn conversational agents and malware classification systems at CYBLYTICS Lab (FAST NUCES).
 
 ```python
 class JamshaidAli:
     role       = "AI Engineer"
+    employer   = "Cloud Rexpo"
     location   = "Islamabad, Pakistan"
     experience = "3+ years"
     education  = [
@@ -41,7 +42,15 @@ class JamshaidAli:
         "Model fine-tuning & production ML deployment",
         "Security ML: malware classification",
     ]
-    currently = "AI/ML Engineer @ CYBLYTICS Lab, FAST NUCES · Leading Beeba (multi-agent platform)"
+    currently = [
+        "AI Engineer @ Cloud Rexpo, leading Beeba (multi-agent platform)",
+        "AI/ML Engineer @ CYBLYTICS Lab, FAST NUCES",
+    ]
+    contact = {
+        "email": "jamshaidali9291@gmail.com",
+        "linkedin": "jamshaid-ali-977a34210",
+        "github": "Jamshaid9291",
+    }
 ```
 
 ---
@@ -118,8 +127,8 @@ class JamshaidAli:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>RAG Chatbot with LangChain</h3>
-      <p><a href="https://github.com/Jamshaid9291/Building-RAG-Chatbots-with-LangChain">Repo →</a><br/>Retrieval-Augmented Generation system using <strong>LangChain, OpenAI & Pinecone</strong> for grounded, document-based Q&A via semantic search.</p>
+      <h3>Agentic RAG with LangGraph, Pinecone &amp; Tavily</h3>
+      <p><a href="https://github.com/Jamshaid9291/Agentic-RAG-with-LangGraph-Pinecone-Tavily">Repo →</a><br/>Stateful, source-aware RAG system that grades retrieved evidence before answering: queries a private knowledge base first, falls back to live <strong>Tavily</strong> web search when evidence is weak, and rewrites queries to retry. Built as a <strong>LangGraph</strong> graph with query routing, evidence grading, and controlled retries rather than a fixed retrieve-then-generate pipeline.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Obfuscated Malware Classifier</h3>
@@ -135,6 +144,7 @@ class JamshaidAli:
 
 | Project | Description |
 |---|---|
+| [RAG Chatbot with LangChain](https://github.com/Jamshaid9291/Building-RAG-Chatbots-with-LangChain) | Retrieval-Augmented Generation system using LangChain, OpenAI & Pinecone for document Q&A |
 | [T5 Fine-Tuning on GSM8K](https://github.com/Jamshaid9291/Fine-Tuning-T5-for-Grade-School-Math-Problem-Solving-using-the-GSM8K-Dataset) | Fine-tuned T5-small for grade-school math reasoning (seq2seq) |
 | [Flower Classification (CNN)](https://github.com/Jamshaid9291/Flower-Classification-using-CNN-with-Data-Augmentation) | PyTorch CNN with data augmentation for multi-category image classification |
 | [Music Genre Classifier](https://github.com/Jamshaid9291/Music-Genre-Classification-using-PyTorch) | Audio classification on the GTZAN dataset using a fully connected network |
@@ -163,7 +173,7 @@ class JamshaidAli:
 
 | 🤖 Multi-Agent Systems | ⚙️ Agent Capabilities | 🔬 Agentic Domains | 📁 Repos | 🎓 Degree |
 |:---:|:---:|:---:|:---:|:---:|
-| 2+ (incl. Beeba) | Tool Use · RAG · Orchestration · Memory | Conversational Agents · Content Automation · Security Agents | 27 | MS CS @ FAST NUCES |
+| 2+ (incl. Beeba) | Tool Use · RAG · Orchestration · Memory | Conversational Agents · Content Automation · Security Agents | ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJamshaid9291&label=&query=%24.public_repos&color=00D9FF&style=flat-square) | MS CS @ FAST NUCES |
 
 </div>
 
@@ -183,6 +193,6 @@ Open to **AI engineering roles**, **agentic systems work**, and **research colla
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI5MCIgdmlld0JveD0iMCAwIDEyMDAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImZnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDlmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzEyMzk1YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZjIwMjciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjkwIiBmaWxsPSJ1cmwoI2ZnKSIvPgo8L3N2Zz4K" width="100%"/>
 
 </div>
