@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Jamshaid%20Ali&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%26%20LLM%20Infrastructure&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A11CB&height=160&section=header&text=Jamshaid%20Ali&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%2C%20Agentic%20Systems%20%26%20LLM%20Infrastructure&descAlignY=51&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Designing+Multi-Agent+LLM+Systems+in+Production;RAG+Pipelines+%7C+Tool-Using+Agents+%7C+Orchestration;NLP+%C2%B7+Computer+Vision+%C2%B7+Security+ML;Shipping+Reliable+AI%2C+Not+Just+Demos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00D9FF&center=true&vCenter=true&width=780&lines=Designing+Multi-Agent+LLM+Systems+in+Production;RAG+Pipelines%2C+Tool-Using+Agents%2C+Orchestration;NLP%2C+Computer+Vision%2C+Security+ML;Shipping+Reliable+AI%2C+Not+Just+Demos" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ## 🧠 About
 
-I'm an AI Engineer focused on **agentic LLM systems** — multi-agent architectures, tool-using agents, and RAG pipelines that run in production rather than staying notebooks. My background spans NLP, computer vision, audio, and security ML, with an MS in Computer Science built on a thesis in RAG pipeline optimization.
+I'm an AI Engineer focused on **agentic LLM systems**: multi-agent architectures, tool-using agents, and RAG pipelines that run in production rather than staying notebooks. My background spans NLP, computer vision, audio, and security ML, with an MS in Computer Science built on a thesis in RAG pipeline optimization.
 
 I currently work on multi-turn conversational agents and malware classification systems at CYBLYTICS Lab (FAST NUCES), and lead development of **Beeba**, a multi-agent social media automation platform.
 
@@ -31,7 +31,7 @@ class JamshaidAli:
     location   = "Islamabad, Pakistan"
     experience = "3+ years"
     education  = [
-        "MS Computer Science @ FAST NUCES — thesis: RAG pipeline optimization",
+        "MS Computer Science @ FAST NUCES (thesis: RAG pipeline optimization)",
         "BS Computer Science @ PMAS Arid Agriculture University",
     ]
     focus = [
@@ -39,7 +39,7 @@ class JamshaidAli:
         "RAG pipelines & retrieval optimization",
         "Tool-using / function-calling agents",
         "Model fine-tuning & production ML deployment",
-        "Security ML — malware classification",
+        "Security ML: malware classification",
     ]
     currently = "AI/ML Engineer @ CYBLYTICS Lab, FAST NUCES · Leading Beeba (multi-agent platform)"
 ```
@@ -108,8 +108,8 @@ class JamshaidAli:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Multi-Agent Social Automation — Beeba</h3>
-      <p>Lead-developed multi-agent LLM platform automating social media workflows: content generation, scheduling, and engagement agents coordinating through a shared orchestration layer.</p>
+      <h3>Beeba: Multi-Agent Social Automation Platform</h3>
+      <p><strong>Lead Developer.</strong> Multi-agent LLM platform for automating social media workflows, with content generation, scheduling, and engagement agents coordinating through a shared orchestration and memory layer. Owns the architecture end-to-end, from agent design to production deployment.</p>
     </td>
     <td width="50%" valign="top">
       <h3>AI Article-Writing Agent</h3>
